@@ -9,3 +9,5 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-minimal
+author: Admin
+description: Welcome!

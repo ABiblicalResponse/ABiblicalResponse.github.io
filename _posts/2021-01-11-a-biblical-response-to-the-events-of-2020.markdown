@@ -1,6 +1,7 @@
 ---
 title: A Biblical response to the events of 2020
 date: 2021-01-11 22:56:00 Z
+permalink: "/posts/a-biblical-response-to-the-events-of-2020.html"
 categories:
 - posts
 ---

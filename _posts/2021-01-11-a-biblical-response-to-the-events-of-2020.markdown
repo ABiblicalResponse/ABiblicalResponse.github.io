@@ -1,6 +1,8 @@
 ---
 title: A Biblical response to the events of 2020
 date: 2021-01-11 22:56:00 Z
+categories:
+- posts
 ---
 
 2020 has been a year of unfortunate and, in some cases, unexpected events. A global pandemic has swept the world, and our country remains in disarray, distrust, fear, and uncertainty. Aggression from police has triggered an unwavering focus, near obsession, on fighting injustice, but protest has frequently led to violence, destruction and death. Political division, while not unique to 2020, has become a national past-time and continues to fuel anger, disagreement, bitterness, and dissent. National economies the world over are struggling and on the brink of collapse, or so we are led to believe. People are out of work or displaced, many are marginalized, and the world seems a worse place than ever before.
